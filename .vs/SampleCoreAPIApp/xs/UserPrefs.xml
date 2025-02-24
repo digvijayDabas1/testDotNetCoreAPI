@@ -1,19 +1,19 @@
 ﻿<Properties GitUserInfo="UsingMD" StartupConfiguration="{86849B23-7B4E-413C-9A90-140753310BC2}|http">
-  <MonoDevelop.Ide.Workbench ActiveDocument="SampleCoreAPIApp/appsettings.json">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SampleCoreAPIApp/Services/UserServices.cs">
     <Files>
       <File FileName="SampleCoreAPIApp/Services/ArticleServices.cs" />
-      <File FileName="SampleCoreAPIApp/Services/UserServices.cs" />
+      <File FileName="SampleCoreAPIApp/Services/UserServices.cs" Line="97" Column="33" />
       <File FileName="SampleCoreAPIApp/IServices/IArticleServices.cs" />
-      <File FileName="SampleCoreAPIApp/IServices/IUserServices.cs" />
+      <File FileName="SampleCoreAPIApp/IServices/IUserServices.cs" Line="9" Column="32" />
       <File FileName="SampleCoreAPIApp/Controllers/ArticlesController.cs" />
-      <File FileName="SampleCoreAPIApp/Controllers/AuthController.cs" />
-      <File FileName="SampleCoreAPIApp/Models/Article.cs" />
-      <File FileName="SampleCoreAPIApp/appsettings.json" Line="10" Column="125" />
+      <File FileName="SampleCoreAPIApp/Controllers/AuthController.cs" Line="32" Column="1" />
+      <File FileName="SampleCoreAPIApp/Models/Article.cs" Line="10" Column="48" />
+      <File FileName="SampleCoreAPIApp/Program.cs" Line="52" Column="49" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="SampleCoreAPIApp" expanded="True">
+          <Node name="SampleCoreAPIApp" expanded="True" selected="True">
             <Node name="SampleCoreAPIApp" expanded="True">
               <Node name="Controllers" expanded="True" />
               <Node name="IServices" expanded="True" />
@@ -22,14 +22,17 @@
                 <Node name="ResponseModels" expanded="True" />
               </Node>
               <Node name="Services" expanded="True" />
-              <Node name="appsettings.json" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/digvijaydabas/Documents/SampleCoreAPIApp/SampleCoreAPIApp/Controllers/AuthController.cs" relfile="SampleCoreAPIApp/Controllers/AuthController.cs" line="30" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.SampleCoreAPIApp PreferredExecutionTarget="/Applications/Google Chrome.app" />

@@ -170,3 +170,4 @@
 /Users/digvijaydabas/Documents/SampleCoreAPIApp/SampleCoreAPIApp/obj/Debug/net8.0/SampleCoreAPIApp.pdb
 /Users/digvijaydabas/Documents/SampleCoreAPIApp/SampleCoreAPIApp/obj/Debug/net8.0/SampleCoreAPIApp.genruntimeconfig.cache
 /Users/digvijaydabas/Documents/SampleCoreAPIApp/SampleCoreAPIApp/obj/Debug/net8.0/ref/SampleCoreAPIApp.dll
+/Users/digvijaydabas/Documents/SampleCoreAPIApp/SampleCoreAPIApp/obj/Debug/net8.0/SampleCoreAPIApp.sourcelink.json
